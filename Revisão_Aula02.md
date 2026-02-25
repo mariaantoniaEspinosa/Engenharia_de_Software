@@ -1,0 +1,16 @@
+### Requisitos de Software
+- São funções, objetivos, propriedades, e restruições que o sisema deve possuir para satisfazer padrões ou especificações;
+    - Condição necessária para satisfazer um objetivo;
+- Classificação dos Requisitos
+    - Requisitos Funcionais (RF)
+        - O que o sistema deve fazer: funcionalidades e comportamentos;
+        - Tem como foco: transformação de dados;
+        - Exemplos: cadastro no sistema, emissão de relatório, consulta de dados;
+        - *São funções que o software precisa realizar;*
+    - Requisitos Não Funcionais (RFN)
+        - Qualificam/restrigem os requisitos funcioanis: definem prioridades e critérios de qualidade;
+        - Tem como foco: desempenho, confiabilidade, usabilidade;
+        - Possui tempo de resposta, disponibilidade.;
+        - *Descreve como o sistema deve se comportar ou quais restrições deve obedecer.*
+- Falhas na definição dos requisitps são uma das principais causas de fracasso de sistemas!!!
+- Requisitos influenciam praticamere todas as fases do desenvolvimento de um Projeto e são a base de qualquer software bem sucedido

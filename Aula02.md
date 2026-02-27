@@ -54,7 +54,7 @@
       - Construção
       - Emprego
     - Atividades de apoio
-      - controle e acompnhamento do projeto
+      - controle e acompanhamento do projeto
       - administração de riscos
       - garantia da qualidade de software
       - revisões técnicas

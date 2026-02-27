@@ -39,25 +39,26 @@
           - Construção: programar, fase de codificação.
             - Entrega: implantação do software para rodar, com constante manutenção; documentação.
  - Todas as etapas tem por objetivo conseguir **qualidade** -> testes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// ### Ciclo de Vida de Desenvolvimento de software / Metodologia
+### O processo de software
+- Processo: atividades, ações e tarefas realizadas na criação de algum produto de trabalho *work product*; abordagem adaptável que possibilita às pessoas realizar o trabalho de selecionar e escolher o conjunto apropriado de ações e tarefas;
+- Atividade: focada em atingir um objetivo amplo e é utilizada independente do campo de aplicação.
+- Ação: conjunto de tarefas que resultam num artefato de software fundamental
+- Tarefa: se concentra em um objetivo pequeno, bem definido que produz um resultado tangível.
+- Metodologia/Framework: alicerce de um processo de engenharia de software, por meio de atividades estruturais aplicáveis a todos os projetos de software.
+    - Metodologia: compreende cinco atividades que são aplicadas quantas vezes forem as iterações do projeto
+      - Comunicação
+      - O processo de software
+      - Planejamento
+      - Modelagem
+      - Construção
+      - Emprego
+    - Atividades de apoio
+      - controle e acompnhamento do projeto
+      - administração de riscos
+      - garantia da qualidade de software
+      - revisões técnicas
+      - medição
+      - gerenciamento da configuração de software
+      - gerenciamento da reusabilidade
+      - preparo e produção de artefatos de software

@@ -57,3 +57,69 @@
 - WIP: Limita o número de tarefas que podem estar em progresso em cada estágio
 - Faixa Urgente: área especial no quadro para priorizar tarefas
 - Cartões de Tarefas: Cada tarefa é representada por um cartão que se move através das colunas do quadro conforme seu progresso.
+
+## Rational Unified Process (RUP)
+- processo híbrido: reúne elementos de todos os modelos de processo genéricos
+- ele utiliza uma abordagem de orientação a objetos em sua concepção e é projetado e documentado utilizando a notação UML para ilustrar os processos em ação
+- Possui três prespectivas: dinâmica, estática e prátia.
+- dinâmica: mostra as fases do modelo ao longo do tempo
+- estática: atividades realizadas no processo
+- prática: boas prátias a serem usadas 
+- ciclos > iteração > incremento > evolução do produto
+- ciclos: concepção, elaboração, construção e transição
+- concepção: estabelecer um business case para o sistema
+- elaboração: desenvolver uma compreensão do problema dominante, estabelecer um framework da arquitetura para o sistema, desenvolver o plano do projeto e identificar os maiores riscos do projeto
+- Construção: envolve projeto, programação e testes do sistema
+- transição: implica transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários e em seu funcionamento em um ambiente real
+- iteração: Cada fase pode ser executada de forma iterativa com os resultados desenvolvidos de forma incremental. Além disso, todo o conjunto de fases também pode ser executado de forma incremental.
+- <img width="902" height="261" alt="image" src="https://github.com/user-attachments/assets/559af959-7681-4062-b548-14de911e01ef" />
+- Visão estática: prioriza as atividades que ocorrem durante o processo de desenvolvimento. Na descrição do RUP, essas são chamadas workflows, a descrição do workflow é orientada em torno de modelos associados à UML.
+- Visão Dinâmica: 
+- <img width="1174" height="750" alt="image" src="https://github.com/user-attachments/assets/92f7621f-5b3d-4aa1-9dd2-e8f68f879431" />
+- boas práticas: Desenvolver software iterativamente(1); Gerenciar os requisitos(2); Usar arquiteturas baseadas em componentes(3); Modelar o software visualmente(4); Verificar a qualidade do software(5); Controlar as mudanças do software(6).
+- 1) Planejar os incrementos do sistema com base nas prioridades do cliente e desenvolver os recursos de alta prioridade no início do processo de desenvolvimento.
+- 2) Documentar explicitamente os requisitos do cliente e acompanhar suas mudanças
+- 3) Estruturar a arquitetura do sistema em componentes.
+- 4) Usar modelos gráficos da UML para apresentar visões estáticas e dinâmicas do software
+- 5) Assegurar que o software atenda aos padrões de qualidade organizacional
+- 6) Gerenciar as mudanças do software, usando um sistema de gerenciamento de mudanças e procedimentos e ferramentas de gerenciamento de configuração.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -77,12 +77,12 @@
 - Visão Dinâmica: 
 - <img width="601" height="425" alt="image" src="https://github.com/user-attachments/assets/92f7621f-5b3d-4aa1-9dd2-e8f68f879431" />
 - boas práticas: Desenvolver software iterativamente(1); Gerenciar os requisitos(2); Usar arquiteturas baseadas em componentes(3); Modelar o software visualmente(4); Verificar a qualidade do software(5); Controlar as mudanças do software(6).
-- 1) Planejar os incrementos do sistema com base nas prioridades do cliente e desenvolver os recursos de alta prioridade no início do processo de desenvolvimento.
-- 2) Documentar explicitamente os requisitos do cliente e acompanhar suas mudanças
-- 3) Estruturar a arquitetura do sistema em componentes.
-- 4) Usar modelos gráficos da UML para apresentar visões estáticas e dinâmicas do software
-- 5) Assegurar que o software atenda aos padrões de qualidade organizacional
-- 6) Gerenciar as mudanças do software, usando um sistema de gerenciamento de mudanças e procedimentos e ferramentas de gerenciamento de configuração.
+- 1 - Planejar os incrementos do sistema com base nas prioridades do cliente e desenvolver os recursos de alta prioridade no início do processo de desenvolvimento.
+- 2 - Documentar explicitamente os requisitos do cliente e acompanhar suas mudanças
+- 3 - Estruturar a arquitetura do sistema em componentes.
+- 4 - Usar modelos gráficos da UML para apresentar visões estáticas e dinâmicas do software
+- 5 - Assegurar que o software atenda aos padrões de qualidade organizacional
+- 6 - Gerenciar as mudanças do software, usando um sistema de gerenciamento de mudanças e procedimentos e ferramentas de gerenciamento de configuração.
 
 
 

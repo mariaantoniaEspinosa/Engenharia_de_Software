@@ -50,7 +50,7 @@
 
 ## Kanban
 - todas as metodologias usam KanBan como quadro de controle de tarefas
-- <img width="823" height="425" alt="image" src="https://github.com/user-attachments/assets/49b61acc-911f-4d75-8c53-680709f72b74" />
+- <img width="601" height="261" alt="image" src="https://github.com/user-attachments/assets/49b61acc-911f-4d75-8c53-680709f72b74" />
 - técnica visual usada para gerenciar fluxos de trabalho e tarefas em processos de desenvolvimento
 - Backlog: Representa o trabalho que ainda está aguardando para ser iniciado
 - Workflow:  é dividido em colunas que representam diferentes estágios do processo, como "Análise", "Desenvolvimento", "Testes", e "Feito
@@ -72,10 +72,10 @@
 - Construção: envolve projeto, programação e testes do sistema
 - transição: implica transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários e em seu funcionamento em um ambiente real
 - iteração: Cada fase pode ser executada de forma iterativa com os resultados desenvolvidos de forma incremental. Além disso, todo o conjunto de fases também pode ser executado de forma incremental.
-- <img width="902" height="261" alt="image" src="https://github.com/user-attachments/assets/559af959-7681-4062-b548-14de911e01ef" />
+- <img width="601" height="261" alt="image" src="https://github.com/user-attachments/assets/559af959-7681-4062-b548-14de911e01ef" />
 - Visão estática: prioriza as atividades que ocorrem durante o processo de desenvolvimento. Na descrição do RUP, essas são chamadas workflows, a descrição do workflow é orientada em torno de modelos associados à UML.
 - Visão Dinâmica: 
-- <img width="1174" height="750" alt="image" src="https://github.com/user-attachments/assets/92f7621f-5b3d-4aa1-9dd2-e8f68f879431" />
+- <img width="601" height="425" alt="image" src="https://github.com/user-attachments/assets/92f7621f-5b3d-4aa1-9dd2-e8f68f879431" />
 - boas práticas: Desenvolver software iterativamente(1); Gerenciar os requisitos(2); Usar arquiteturas baseadas em componentes(3); Modelar o software visualmente(4); Verificar a qualidade do software(5); Controlar as mudanças do software(6).
 - 1) Planejar os incrementos do sistema com base nas prioridades do cliente e desenvolver os recursos de alta prioridade no início do processo de desenvolvimento.
 - 2) Documentar explicitamente os requisitos do cliente e acompanhar suas mudanças

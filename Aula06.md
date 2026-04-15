@@ -1,4 +1,4 @@
-# Aula 05
+# Aula 06
 - comunicação - análise
 - planejamento - análise
 - projeto - uml
@@ -27,4 +27,4 @@
 ### Glossário
 - Domínio de negócio: área de aplicação que será desenvolvido o sistema;
 - stakeholder:  são pessoas, grupos ou organizações que influenciam ou são afetados pelo produto/projeto 
-- artefato
+- artefato:  qualquer subproduto concreto gerado durante o processo de desenvolvimento de software

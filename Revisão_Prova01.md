@@ -1,0 +1,102 @@
+# Revisão para Prova I 
+- O que é um software? é um produto que será consumido no mercado; intangível e sem matéria prima.
+  - possui: instruções, dados e documentação própria;
+  - campos de aplicação:
+    - sistemas: feito para outros programas
+    - aplicação: feito sob medida para um problema
+    - científico: feito para grandes processamentos númericos
+    - embutido: feito de um produto para outro específico
+    - linha de produto: feito para muitos clientes
+    - web: feito para hipertextos interconectados
+    - IA: feito para solucionar problemas complexos
+    - legado: feito antigamente
+- O que é a Engenharia de Software?
+  - comunicação: estabelece os requisitos
+  - planejamento: estabelece custos e prazos
+  - projeto: linguagem UML
+  - construção: codificação
+  - entrega: implementação + documentação
+- O que é o processo de software?
+  - processo: atividades realizadas na criação de algum produto de trabalho
+  - atividades: foco em atingir um objetivo amplo
+  - ação: conjunto de tarefas que resultam num artefato de software fundamental
+  - tarefa: objetivo pequeno, que produz um resultado tangível
+  - framework: alicerce de um processo de engenharia; compreende as cinco atividades que são aplicadas quantas vezes forem as interações do projeto
+- Fluxo de Processo
+  - Linear: segue sequencias em etapas
+  - Iterativo: pode ir e voltar nas etapas
+- Fluxo Incremental
+  - construção de algo: projeto se mantém o mesmo em diferentes fases
+- Fluxo Evolucionário
+  - formato circular: cada volta produz algo novo
+- Fluxo Paralelo
+  - efetuação de etapas sem ter passado pelas anteriores
+- Modelos de processos Prescritivos
+  - Cascata
+    - avança pelas fases de planejamento, modelagem, construção, emprego e suporte
+  - V
+    - acrescenta uma camada de teste entre cada etapa de desenvolvimento
+  - Incremental
+    - tem sequencia linear, de forma escalonada, a medida que o tempo avança
+  - Evolucionário
+    - iterativos
+      - prototipação: planejada rapidamente
+      - modelo espiral: para cada camada feita ha uma analise de risco e uma melhora
+  - Concorrente
+    - atividades estão funcionando ao mesmo tempo em diferentes estados
+- Modelos Ágeis
+  - etapas envolvidas: comunicação, planejamento, modelagem, construção e emprego
+  - agilidade: é a rapidez e a capacidade de responder apropriadamente a mudanças
+  - tipos de modelos ágeis
+    - Extreme Programming
+      - planejamento: requisitos
+      - projeto: principio KIS
+      - codificação: programação em dupla
+      - testes: testes de clientes
+    - Scrum
+      - framework: define papéis para equipe
+      - backlog do sprint: tarefas quebradas em diferentes funcionalidades, em ordem de importancia
+      - backlog do produto: pilha de urgencia de pedaços do produto por fazer
+      - sprint: delimitação de tempo para realizar uma parte do produto
+      - reuniões diárias: o que foi realizado desde a última reuniã> o que será feito até amanhã> há dificuldade?
+      - sprint review: entrega do produto
+- Método de Desenvolvimento de Sistemas Dinâmicos
+  - ciclo de vida DSMS
+    - estudo da viabilidade: requisitos básicos e restrições
+    - estudo do negócio: requisitos funcionais e de informação
+    - iteração de projeto e desenvolvimento: revisitação de protótipos feitos durante a iteração
+    - implementação: aloca a última versão do incremento no sistema operacional
+  - FDD
+    - funcionalidades: função valorizada pelo cliente que é implementada em duas semanas ou menos
+    - são agrupadas hierarquiamente com o negócio
+    - requisitos: <ação> |por|para quem|para que>
+  - DevOps
+    - esquerda: desenvolvimento
+    - direita: operações
+    - plan: objetivos do négocio
+    - build: codigo fonte é compilado
+    - code: escrita do codifo fonte
+    - test: identificador de falhas
+    - release: implantação
+    - deploy: instalçao no ambiente de produção
+    - operate: gerenciamento de infraestrutura
+    - monitor: coleta de dados de desempenho
+  - KanBan
+    - usado em todas as metodologias como quadro de controle
+    - backlog: trabalho que ainda será iniciado
+    - workflow: colunas que representam os estágios do processo
+    - WIP: limitador de tarefas por estágio
+    - Faixa urgente: área de tarefas prioritárias
+    - cartões de tarefas: forma que a tarefa se move no quadro
+  - RUP
+    - processo hibrido que possui tres prespectivas
+      - dinâmmica: mostra as fases ao longo do tempo
+      - estática: atividades realizadas no processo
+      - prática: boas práticas a serem usadas
+    - concepção: bunisses de cada sistema
+    - elaboração: desenvolver o plano do projeto e identificar os maiores riscos
+    - construção: projeto, programação e testes do sistema
+    - transição: transferencia do sistema para os usuários
+    - iteração: cada fase pode ser executada de forma iterativa
+    - visão estática: prioriza atividades do processo de desenvolvimento
+    - visão dinâmica: gráfico.

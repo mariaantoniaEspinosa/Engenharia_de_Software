@@ -18,3 +18,5 @@
       12) sistema gera cod. PIX e aguarda pagamento
       13) user paga
       14) sistema confirma pagamento e exibe tela de acompanhamento 
+# Diagramas feitos no Astah
+<img width="926" height="622" alt="image" src="https://github.com/user-attachments/assets/d7405733-8d34-461e-9ac9-584843cd99ef" />

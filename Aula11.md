@@ -24,3 +24,5 @@
 <img width="926" height="622" alt="image" src="https://github.com/user-attachments/assets/d7405733-8d34-461e-9ac9-584843cd99ef" />
 
 <img width="601" height="813" alt="image" src="https://github.com/user-attachments/assets/70980de8-0abc-49bc-81f0-fff0134a3a75" />
+
+# Diagrama de Atividade e de Estado (próxima aula)

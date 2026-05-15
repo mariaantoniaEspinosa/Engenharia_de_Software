@@ -44,6 +44,5 @@
   - exit point
   - estado de histórico (não cai em prova)
   - fork - divisão
-  - join - junção
-  - 
+  - join - junção 
 

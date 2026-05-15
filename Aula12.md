@@ -19,6 +19,8 @@
 - sempre é necessário sair de um ponto inicial e terminar em um ponto final
 - não há mais de um ponto final ou inicial; só há ponto final duplo em diagramas feios.
 ## Exemplo de diagrama feito no Astah
-### Prática 
+### Prática Veículo
 <img width="939" height="591" alt="image" src="https://github.com/user-attachments/assets/d1a90170-cecf-4eb4-9004-db9a904f9eaf" />
+*Prova II: diagrama de classe, de domínio, de caso de Uso, de Atividades, de Máquina*
+
 

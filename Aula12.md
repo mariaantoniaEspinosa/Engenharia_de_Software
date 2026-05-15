@@ -30,11 +30,20 @@
 - exemplo: (criado->confirmado->enviado->entregue->finalizado)
 - ajuda em falhas lógicas no sistema
 - elementos de um diagrama de estados:
-  - estado inicial
-  - estado final
-  - estado
+  - **estado inicial**
+  - **estado final**
+  - **estado**
+  - **decisão**
+  - **junção**
+  - **transição** (gatilho/evento *obrigatório - guarda - ação)
+  - estado (entry/ - do/ - exit/)
+    - sub estado
   - decisão
   - junção
-  - transição (gatilho/evento - guarda - ação)
+  - entry point
+  - exit point
+  - estado de histórico (não cai em prova)
+  - fork - divisão
+  - join - junção
   - 
 

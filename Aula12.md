@@ -44,5 +44,8 @@
   - exit point
   - estado de histórico (não cai em prova)
   - fork - divisão
-  - join - junção 
+  - join - junção
+## Exemplo de diagrama feito no Astah
+### Prática Joguinho de Parkur
+<img width="788" height="314" alt="image" src="https://github.com/user-attachments/assets/3e3fbe43-2562-479a-8fd2-aa411cfb95cb" />
 

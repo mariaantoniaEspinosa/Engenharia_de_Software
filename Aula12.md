@@ -13,5 +13,8 @@
   - fim de fluxo (bolinha branca com X) - encerramento de fluxo que impediu o objetivo final
   - timer (X com traços em cima e embaixo) - tempo de intervalo/limite para alguma ação.
   - lane (autor) - diz quem que faz determinada ação
+  - envio de mensagem (post it triangular na ponta final)
+  - recebe mensagem (post it com triangulo na ponta incial)
+  - processo (flanelinha, outro diagrama inteiro abreviado)
 - sempre é necessário sair de um ponto inicial e terminar em um ponto final
 - não há mais de um ponto final ou inicial; só há ponto final duplo em diagramas feios.

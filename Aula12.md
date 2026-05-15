@@ -46,6 +46,12 @@
   - fork - divisão
   - join - junção
 ## Exemplo de diagrama feito no Astah
+
 ### Prática Joguinho de Parkur
+
 <img width="788" height="314" alt="image" src="https://github.com/user-attachments/assets/3e3fbe43-2562-479a-8fd2-aa411cfb95cb" />
+
+### Prática 1
+
+<img width="752" height="516" alt="image" src="https://github.com/user-attachments/assets/e1012d3b-55e4-4d23-8851-370df76c18e5" />
 

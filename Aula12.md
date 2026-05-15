@@ -21,6 +21,7 @@
 ## Exemplo de diagrama feito no Astah
 ### Prática Veículo
 <img width="939" height="591" alt="image" src="https://github.com/user-attachments/assets/d1a90170-cecf-4eb4-9004-db9a904f9eaf" />
-*Prova II: diagrama de classe, de domínio, de caso de Uso, de Atividades, de Máquina*
+
+*Prova II: diagrama de (classe, de domínio), de caso de Uso, de Atividades, de Máquina*
 
 

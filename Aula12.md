@@ -24,4 +24,17 @@
 
 *Prova II: diagrama de (classe, de domínio), de caso de Uso, de Atividades, de Máquina*
 
+# Diagrama de Estado de Máquina ou de Transição de Estados
+- como um sistema se comporta quando um evento ocorre
+- representa o ciclo de vida de um objeto
+- exemplo: (criado->confirmado->enviado->entregue->finalizado)
+- ajuda em falhas lógicas no sistema
+- elementos de um diagrama de estados:
+  - estado inicial
+  - estado final
+  - estado
+  - decisão
+  - junção
+  - transição (gatilho/evento - guarda - ação)
+  - 
 

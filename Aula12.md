@@ -2,19 +2,19 @@
 - Permite a modelação de fluxos e processos.
 - UML
 - elementos básicos:
-  - nó inicial (ponto preto sólido)
-  - nó final (ponto branco com ponto preto)
-  - ação (quadrado com palavras descritivas - verbo)
-  - aresta/fluxo (linha com uma seta)
-  - decisão (formato de diamante em que entra uma seta e saí no minímo duas) - condição de guarda (o que faz eu decidir um ou outro; escolha de um caminho específico)
-  - intercalação (junção de dois fluxos) (entram duas setas no diamante e saí uma)
-  - fork - divergência (travessão com uma seta entrando e várias saindo) - dupla da join; representam o paralelismo; escolha de vários caminhos; fluxo só continua depois que tudo dentro dos travessões foi realizado.
-  - join - convergência (travessão com várias setas entrando e uma saindo) - dupla da fork; representam o paralelismo; escolha de vários caminhos; fluxo só continua depois que tudo dentro dos travessões foi realizado.
-  - fim de fluxo (bolinha branca com X) - encerramento de fluxo que impediu o objetivo final
-  - timer (X com traços em cima e embaixo) - tempo de intervalo/limite para alguma ação.
-  - lane (autor) - diz quem que faz determinada ação
-  - envio de mensagem (post it triangular na ponta final)
-  - recebe mensagem (post it com triangulo na ponta incial)
-  - processo (flanelinha, outro diagrama inteiro abreviado)
+  - **nó inicial** (ponto preto sólido)
+  - **nó final** (ponto branco com ponto preto)
+  - **ação** (quadrado com palavras descritivas - verbo)
+  - **aresta/fluxo** (linha com uma seta)
+  - **decisão** (formato de diamante em que entra uma seta e saí no minímo duas) - condição de guarda (o que faz eu decidir um ou outro; escolha de um caminho específico)
+  - **intercalação** (junção de dois fluxos) (entram duas setas no diamante e saí uma)
+  - **fork** - divergência (travessão com uma seta entrando e várias saindo) - dupla da join; representam o paralelismo; escolha de vários caminhos; fluxo só continua depois que tudo dentro dos travessões foi realizado.
+  - **join** - convergência (travessão com várias setas entrando e uma saindo) - dupla da fork; representam o paralelismo; escolha de vários caminhos; fluxo só continua depois que tudo dentro dos travessões foi realizado.
+  - **fim de fluxo** (bolinha branca com X) - encerramento de fluxo que impediu o objetivo final
+  - **timer** (X com traços em cima e embaixo) - tempo de intervalo/limite para alguma ação.
+  - **lane** (autor) - diz quem que faz determinada ação
+  - **envio de mensagem** (post it triangular na ponta final)
+  - **recebe mensagem** (post it com triangulo na ponta incial)
+  - **processo** (flanelinha, outro diagrama inteiro abreviado)
 - sempre é necessário sair de um ponto inicial e terminar em um ponto final
 - não há mais de um ponto final ou inicial; só há ponto final duplo em diagramas feios.

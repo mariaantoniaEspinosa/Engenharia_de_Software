@@ -66,3 +66,31 @@
   - uma autoassociação indica que um objeto de uma classe se associa com outros objetos da mesma classe.
 ### Agregação e composição
 LER SLIDES 
+### Restrições sobre associações
+- subset: indica objetos conectados por uma associação
+
+  <img width="744" height="345" alt="image" src="https://github.com/user-attachments/assets/98bc8322-213f-4bfa-bd4b-a177331d9455" />
+
+- xor: duas ou mais classes ligadas, precisam ter associações com uma classe em comum
+
+  <img width="644" height="328" alt="image" src="https://github.com/user-attachments/assets/8a57884d-6b54-46d7-8e06-588e97c4ceb0" />
+
+### Generalização e especializações (herança)
+- dadas duas classes A e B, se A é uma generalização de B, então B é uma especialização de A
+- termos:
+  - subclasse e superclasse;
+  - supertipo e subtipo;
+  - classe base e classe herdeira;
+  - ancestral e descendente.
+
+<img width="1261" height="253" alt="image" src="https://github.com/user-attachments/assets/b4625346-8f4d-4c7b-91ce-228110899813" />
+
+- a herança é representada na UML por uma flecha partindo da subclasse em direção à superclasse
+- características:
+  - transitividade:indica que uma classe em uma hierarquia herda tanto propriedades e relacionamentos de sua superclasse imediata quanto de suas não imediatas
+  - Assimetria: se A for uma generalização de B, então B não pode ser uma generalização de A
+
+<img width="547" height="540" alt="image" src="https://github.com/user-attachments/assets/de529c82-db8c-40c0-b7c0-b2f921a7bb60" />
+
+  
+

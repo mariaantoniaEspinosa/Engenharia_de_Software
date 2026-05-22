@@ -99,5 +99,16 @@
 
 <img width="547" height="540" alt="image" src="https://github.com/user-attachments/assets/de529c82-db8c-40c0-b7c0-b2f921a7bb60" />
 
-  
+# Atividade no Astah
+- Faça o diagrama de domínio baseado nesta imagem:
+
+<img width="541" height="816" alt="image" src="https://github.com/user-attachments/assets/79edcb40-ca22-4769-9545-bd7f88cd8f47" />
+
+- Diagrama feito em aula
+
+<img width="791" height="452" alt="image" src="https://github.com/user-attachments/assets/9ceb508c-9605-4899-b526-3418fbad63d7" />
+
+- obs: opcionalidade fica do lado oposto do zero!!!
+
+
 

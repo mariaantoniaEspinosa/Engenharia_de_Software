@@ -47,10 +47,13 @@
 - Opcional: se tiver 0 na cardinalidade miníma, é opcional  
 
 ### Nome de associação, direção de leitura e papéis
+
 <img width="1015" height="286" alt="image" src="https://github.com/user-attachments/assets/ad1c82eb-52e5-4e72-bfcc-8396a50fb97f" />
 
 ## Classe Associativas
+
 <img width="984" height="311" alt="image" src="https://github.com/user-attachments/assets/9867daa5-61b7-40cc-9311-3382253364f5" />
+
 - linha tacejada representa a associação
 - não se deve nomear a linha da associação
 - pode participar de outros relacionamentos

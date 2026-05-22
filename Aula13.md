@@ -65,3 +65,4 @@
   - autoassociação
   - uma autoassociação indica que um objeto de uma classe se associa com outros objetos da mesma classe.
 ### Agregação e composição
+LER SLIDES 

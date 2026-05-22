@@ -65,7 +65,14 @@
   - autoassociação
   - uma autoassociação indica que um objeto de uma classe se associa com outros objetos da mesma classe.
 ### Agregação e composição
-LER SLIDES 
+- agregação
+
+<img width="1278" height="106" alt="image" src="https://github.com/user-attachments/assets/c22ffdff-6078-4c78-99cb-fa6ace880c8c" />
+
+- composição
+
+<img width="1134" height="87" alt="image" src="https://github.com/user-attachments/assets/9bf77fca-ad32-4ec5-a8eb-247415bfd9f8" />
+
 ### Restrições sobre associações
 - subset: indica objetos conectados por uma associação
 

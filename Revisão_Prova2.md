@@ -1,0 +1,25 @@
+# DIAGRAMA DE ATIVIDADE
+- diagrama comportamental -> fluxo de controle de uma atividade p/ outra
+- descrições de ações passo-a-passo
+- sequência controla temporal de ações -> fluxograma com suporte a paralelismp e sincronismo
+- Atividade: descreve a implementação de um caso de uso
+- Ação: passo individual dentro de uma atividade.
+- serve para captura de trabalhos que vão ser executados quando uma operação específica do sistema é disparada (ação)
+- serve para modelagem de fluxo de trabalho e processos
+- elementos:
+  - nó inicial: ponto de inicio
+  - fluxo/aresta: sequencia de atividades
+  - decisão: um fluxo de entrada e vários de saída com uma sentina ou guarda
+  - intercalação: varios fluxos de entrada e uma unica saida
+  - fork: duas ou mais atividades sao realizadas em paralelo
+  - join: duas ou mais atividades se unem para realizar uma nova tarefa
+  - nó final: término da modelagem
+  - partições/swimlanes: quem realiza cada ação
+  - sinais/flags: mensagens
+  - final de fluxo: parte da atividade que termina, mas a modelagem prossegue
+- ATENÇÃO:
+  - *a cada nó branch deve corresponder a um ní merge*
+  - *cada nó fork deve corresponder a um nó join*
+  - só existe um nó inicial e um nó final
+  - 
+  <img width="939" height="591" alt="image" src="https://github.com/user-attachments/assets/3627818e-8731-495a-bf44-cef09a15ec3f" />

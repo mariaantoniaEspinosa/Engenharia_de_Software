@@ -79,3 +79,41 @@
 -
 <img width="601" height="813" alt="image" src="https://github.com/user-attachments/assets/60f93438-7ca2-446a-8888-28b851da78c5" />
 
+# DIAGRAMA DE CLASSES
+- descreve a estrutura estática de classes no sistema, define atributos, operações e relacionamentos entre classes
+- representação de item do mundo real, físico ou abstrato
+- estruturas internas chamadas de atributos e métodos
+  - atributos: armazenam dados dos objetos de uma classe
+  - métodos: operações que a instância de uma classe pode executar
+  - intância: objeto
+- Representação é feita em três compartimentos: nome, atributos e operações
+- Visibilidade dos Atributos/métodos:
+  - +publico
+  - #Protegido
+  - -Privado
+  - ~Pacote
+  - / Derivado
+- Associação: relacionamentos formados entre objetos durante a execução do sistema; representada por uma linha ligando as classes
+  - multiplicidade:
+    - <img width="640" height="229" alt="image" src="https://github.com/user-attachments/assets/584cac40-dad0-4d26-bad7-f48ec8a2a796" />
+
+  - participação:
+    - multiplicidade = 1 -> participação obrigatória
+    - multiplicidade != 1 -> participação opcional
+  - nome: fica no meio do caminho das classes envolvidas e descreve o que irá ocorrer entre elas
+- Classes Associativas: aparece quando duas ou mais classes estão associadas e é necessário manter informação dessa associação (normal a associações de muitos para muitos)
+  - <img width="601" height="159" alt="image" src="https://github.com/user-attachments/assets/e9a3067c-cc4f-4157-9f99-4f44de65d9a1" />
+
+- Associações ternárias: associação de três objetos distintos (coloca um diamante na ligação enrte elas)
+- Associações relexivas/autoassociação: liga objetos da mesma classe
+- Agregação:  linha que conecta classes relacionadas com um diamante branco perto da classe que presenta o todo; itens tem existencia independente
+- Composição: linha que conecta classes relacionadas com um diamante preto; Os itens nao tem existencia independente
+- Herança: flecha partindo da subclasse em direção a superclasse
+  - transitividade
+  - assimetria
+ 
+# MODELO DE DOMÍNIO
+- representação visual de classes conceituas 
+- não são definidas operações
+- 
+<img width="723" height="269" alt="image" src="https://github.com/user-attachments/assets/626c732f-f89d-4bd9-8252-ccc4c4156388" />
